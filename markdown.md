@@ -12,8 +12,8 @@ Para criar uma lista com sub-itens, você deve na linha abaixo do item do qual d
 Veja a lista abaixo e olhe o código fonte:
 
 1. HTML
-   1. Tag - <div>
-   2. Tag - <h1>
+   1. Tag - &lt;div&gt;
+   2. Tag - &lt;h1&gt;
 2. CSS
    1. Prop - background
    2. Prop - color
