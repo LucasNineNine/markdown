@@ -49,7 +49,7 @@ Para mostrar uma ***imagem*** coloque --> **!\[]()**, dentro dos colchetes escre
 !\[nomeImagem](linkImagem)
 ---
 Para colocar um __link__ você vai digitar o seguinte **\[]()**, dentro dos colchetes você coloca o texto que deseja que o usuário veja e entre parênteses coloque o **link** para onde quer levá-lo. 
-[nomeLink](link)
+\[nomeLink](link)
 ***
 Para criar tabelas faça a formatação abaixo:
 Num | Nome | Nota
