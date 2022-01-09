@@ -45,6 +45,7 @@ Para
 - [] Receber o pagamento
 ***
 Para mostrar uma ***imagem*** coloque --> **!\[]()**, dentro dos colchetes escreva um nome para a imagem, esse nome aparecerá se o link da imagem estiver quebrado e dentro do parênteses digite o link da imagem. E não esqueça da exclamação --> **!**
+
 !\[nomeImagem](linkImagem)
 ---
 Para colocar um __link__ você vai digitar o seguinte **\[]()**, dentro dos colchetes você coloca o texto que deseja que o usuário veja e entre parênteses coloque o **link** para onde quer levá-lo. 
