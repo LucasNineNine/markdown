@@ -70,6 +70,6 @@ function soma(num1, num2){
 }
 ```
 
-Oi, yeaah! 🤘
+Oi, yeaah! :monkey:
 
 Oi, rapaziada!! **:hand:** <-- esse código foi  feito para ser usado no GitHub.
